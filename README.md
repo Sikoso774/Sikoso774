@@ -40,15 +40,6 @@ I am a developer passionate about **Data Science**, **Emulation**, and **Infrast
     <img src="https://img.shields.io/badge/Pygame-Gamification-2ea44f?style=for-the-badge&logo=python" alt="Pygame" />
 </p>
 
-**⚙️ Infrastructure & Automation (My Playground)**
-<p>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" /> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" /> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" /> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=git" alt="git" /> </a>
-  <a href="https://developer.android.com" target="_blank"> <img src="https://skillicons.dev/icons?i=android" alt="android" /> </a>
-</p>
-
 
 ### 🚀 Featured Experience: "Breaking The Limits"
 

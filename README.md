@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2e1a,100:0d1117&height=200&section=header&text=Zol%C3%A9ni%20KOKOLO%20ZASSI&fontSize=42&fontColor=39d353&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20Data%20Developer%20%7C%20Infrastructure%20Enthusiast&descAlignY=60&descColor=7ee787" 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2e1a,100:0d1117&height=200&section=header&text=Zol%C3%A9ni%20KOKOLO%20ZASSI&fontSize=42&fontColor=39d353&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%2F%20Data%20Developer%20%7C%20Infrastructure%20Enthusiast&descAlignY=60&descColor=7ee787" 
     alt="Capsule-Render"/>
 
 <!-- TYPING ANIMATION -->

@@ -39,7 +39,8 @@
 
 <h2 id="about-me">About Me</h2>
 
-<pre><code class="language-python">class Zoleni:
+```python
+class Zoleni:
     def __init__(self):
         self.name       = "Zoléni KOKOLO ZASSI"
         self.role       = "Full Stack & Data Developer"
@@ -51,7 +52,7 @@
 
     def philosophy(self):
         return "If hardware is the limit, that's a problem to solve — not a constraint to accept."
-</code></pre>
+```
 
 <hr /><br><br>
 

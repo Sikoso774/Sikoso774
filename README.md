@@ -19,14 +19,6 @@
 
 <br>
 
-#### 📜 ``My Projects``
-
-- [Nebulux](https://github.com/Sikoso774/Nebulux)
-- [Hypnotica](https://github.com/Sikoso774/Projet_HYPNOTICA)
-- [Music Player](https://github.com/Sikoso774/Music_Player)
-
-<br>
-
 #### ✨ ``Skills``
 
 - Programming : <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30" title="Python" alt="Python"/></code>
@@ -47,6 +39,44 @@
 
 <br>
 
+#### 📜 ``My Projects``
+
+- [Nebulux](https://github.com/Sikoso774/Nebulux)
+- [Hypnotica](https://github.com/Sikoso774/Projet_HYPNOTICA)
+- [Music Player](https://github.com/Sikoso774/Music_Player)
+
+<br>
+
+#### 🗣️ ``Languages``
+
+<img src="https://img.shields.io/badge/French-Native-39d353?style=flat" alt="French"/>
+<img src="https://img.shields.io/badge/English-B2-3b82f6?style=flat" alt="English"/>
+<img src="https://img.shields.io/badge/Spanish-B1-f59e0b?style=flat" alt="Spanish"/>
+
+<br>
+
+#### 🔗 ``Connect with me``
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/zol%C3%A9ni-kokolo-zassi-280a282ba/">
+    <img src="https://img.shields.io/badge/LinkedIn-Zoléni-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/sikoso77">
+    <img src="https://img.shields.io/badge/Discord-sikoso77-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  &nbsp;
+  <a href="https://zolenikokolo.com">
+    <img src="https://img.shields.io/badge/Portfolio-zolenikokolo.com-39d353?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Sikoso774">
+    <img src="https://img.shields.io/badge/GitHub-Sikoso774-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+<br>
+
 #### 📈 ``GitHub Stats``
 
 <div align="center">
@@ -55,35 +85,6 @@
     <img src="https://streak-stats.demolab.com?user=Sikoso774&theme=highcontrast&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=7ee787&dates=7ee787" alt="GitHub Streak"/>
   </a>
 </div>
-
-<br>
-
-#### 🗣️ ``Languages``
-
-<img src="https://img.shields.io/badge/French-Native-39d353?style=flat-square" alt="French badge"/>
-<img src="https://img.shields.io/badge/English-B1-3b82f6?style=flat-square" alt="English badge"/>
-<img src="https://img.shields.io/badge/Spanish-B1-f59e0b?style=flat-square" alt="Spanish badge"/>
-
-<br>
-
-## 🔗 ``Connect with me``
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/zol%C3%A9ni-kokolo-zassi-280a282ba/">
-    <img src="https://img.shields.io/badge/LinkedIn-Zoléni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:zolenikokolozassi@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://zolenikokolo.com">
-    <img src="https://img.shields.io/badge/Portfolio-zolenikokolo.com-39d353?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/Sikoso774">
-    <img src="https://img.shields.io/badge/GitHub-Sikoso774-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
-
-<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2e1a,100:0d1117&height=120&section=footer&text=Open%20to%20opportunities&fontSize=20&fontColor=39d353&animation=fadeIn&fontAlignY=65" alt="Footer"/>

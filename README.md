@@ -169,11 +169,11 @@ class Zoleni:
 
 <h3>🔧 Dev Tools</h3>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" title="Git" alt="Git"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" title="GitHub" alt="GitHub"/></code>
+<code><img src="https://cdn.simpleicons.org/github/ffffff" width="40" height="40" title="GitHub" alt="GitHub"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code" alt="VS Code"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="40" height="40" title="Dev Tools (Inspecteur)" alt="Dev Tools"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="40" height="40" title="PyCharm" alt="PyCharm"/></code>
-<code><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/obsidian.svg" width="40" height="40" title="Obsidian" alt="Obsidian"/></code>
+<code><img src="https://cdn.simpleicons.org/obsidian/7C3AED" width="40" height="40" title="Obsidian" alt="Obsidian"/></code>
 
 <hr />
 

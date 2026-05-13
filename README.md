@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2e1a,100:0d1117&height=200&section=header&text=Zol%C3%A9ni%20KOKOLO%20ZASSI&fontSize=42&fontColor=39d353&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%2F%20Data%20Developer%20%7C%20Infrastructure%20Enthusiast&descAlignY=60&descColor=7ee787" alt="Capsule-Render"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2e1a,100:0d1117&height=200&section=header&text=Sikoso774&fontSize=42&fontColor=39d353&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%2F%20Data%20Developer%20%7C%20Infrastructure%20Enthusiast&descAlignY=60&descColor=7ee787" alt="Capsule-Render"/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39D353&center=true&vCenter=true&width=620&lines=Breaking+hardware+limits+since+2023+%F0%9F%92%A5;Docker+%E2%86%92+LXC+%3D+5x+more+instances+%F0%9F%9A%80;Python+%7C+DevOps+%7C+Data+Science+%F0%9F%90%8D;Building+games%2C+tools+%26+infra+from+scratch+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG"/>
@@ -44,8 +44,6 @@ class Zoleni:
     def __init__(self):
         self.name       = "Zoléni KOKOLO ZASSI"
         self.role       = "Full Stack & Data Developer"
-        self.school     = "Bachelor Human-IT @ ENSEA, Cergy"
-        self.location   = "Chauconin-Neufmontiers, France 🇫🇷"
         self.languages  = ["Python 🐍", "HTML/CSS/JS 🌐", "Bash ⚙️", "SQL 🗄️"]
         self.status     = "🔍 Looking for a 4–6 month internship"
         self.passions   = ["Data Science", "Infrastructure", "Game Dev", "Emulation"]
@@ -146,47 +144,36 @@ class Zoleni:
 
 <hr />
 
-<h2 id="stack">Stack</h2>
+<h2 id="stack">Skills</h2>
 
-<div align="center">
+<h3>🌐 Frontend</h3>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" title="HTML5" alt="HTML5"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" alt="CSS3"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" alt="JavaScript"/></code>
 
-  <p><strong>💻 Languages & Data</strong></p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<h3>📊 Data Science</h3>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40" title="NumPy" alt="NumPy"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" title="Pandas" alt="Pandas"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="40" height="40" title="Matplotlib" alt="Matplotlib"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" title="Scikit-learn" alt="Scikit-learn"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="40" height="40" title="Jupyter" alt="Jupyter"/></code>
 
-  <p><strong>📦 Libraries & Frameworks</strong></p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Pygame-Game%20Dev-39d353?style=for-the-badge&logo=python&logoColor=white" alt="Pygame"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<h3>⚙️ DevOps</h3>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" title="Linux" alt="Linux"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" title="Docker" alt="Docker"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="40" height="40" title="Waydroid / ADB" alt="Waydroid / ADB"/></code>
 
-  <p><strong>⚙️ Infrastructure & DevOps</strong></p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/LXC-Linux%20Containers-39d353?style=for-the-badge&logo=linux&logoColor=white" alt="LXC"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Waydroid%2FADB-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Waydroid"/>
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
+<h3>📜 Scripting</h3>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" height="40" title="Bash" alt="Bash"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="40" height="40" title="PowerShell" alt="PowerShell"/></code>
 
-  <p><strong>🔧 Tools</strong></p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
-  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-
-  <p><strong>🔐 Network & Security</strong></p>
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
-  <img src="https://img.shields.io/badge/TCP%2FIP%20%26%20DNS-Networking-39d353?style=for-the-badge&logo=cloudflare&logoColor=white" alt="TCP/IP"/>
-
-</div>
+<h3>🔧 Dev Tools</h3>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" title="Git" alt="Git"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" title="GitHub" alt="GitHub"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code" alt="VS Code"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="40" height="40" title="Dev Tools (Inspecteur)" alt="Dev Tools"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="40" height="40" title="PyCharm" alt="PyCharm"/></code>
+<code><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/obsidian.svg" width="40" height="40" title="Obsidian" alt="Obsidian"/></code>
 
 <hr />
 

@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-## 👤 ``About Me``
+#### 👤 ``About Me``
 
 - 🎓 20 y/o Human-IT student at ENSEA (Cergy, France) — graduating 2026
 - 🐍 Python & Full Stack developer — data pipelines, web apps, automation scripts
@@ -19,7 +19,7 @@
 
 <br>
 
-## 📜 ``My Projects``
+#### 📜 ``My Projects``
 
 - [Nebulux](https://github.com/Sikoso774/Nebulux)
 - [Hypnotica](https://github.com/Sikoso774/Projet_HYPNOTICA)
@@ -31,19 +31,19 @@
 
 - Programming : <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30" title="Python" alt="Python"/></code>
 
-<h3>Backend : <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="30" height="30" title="FastAPI" alt="FastAPI"/></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30" height="30" title="PostgreSQL" alt="PostgreSQL"/></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="30" height="30" title="SQLite" alt="SQLite"/></code></h3>
+- Backend : <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="30" height="30" title="FastAPI" alt="FastAPI"/></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30" height="30" title="PostgreSQL" alt="PostgreSQL"/></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="30" height="30" title="SQLite" alt="SQLite"/></code>
 
-<h3>Frontend : <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" height="30" title="HTML5" alt="HTML5"/></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" height="30" title="CSS3" alt="CSS3"/></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30" title="JavaScript" alt="JavaScript"/></code></h3>
+- Frontend : <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" height="30" title="HTML5" alt="HTML5"/></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" height="30" title="CSS3" alt="CSS3"/></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30" title="JavaScript" alt="JavaScript"/></code>
 
-<h3>Data Science : <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="30" height="30" title="NumPy" alt="NumPy"/></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="30" height="30" title="Pandas" alt="Pandas"/></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="30" height="30" title="Matplotlib" alt="Matplotlib"/></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="30" height="30" title="Scikit-learn" alt="Scikit-learn"/></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="30" height="30" title="Jupyter" alt="Jupyter"/></code></h3>
+- Data Science : <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="30" height="30" title="NumPy" alt="NumPy"/></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="30" height="30" title="Pandas" alt="Pandas"/></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="30" height="30" title="Matplotlib" alt="Matplotlib"/></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="30" height="30" title="Scikit-learn" alt="Scikit-learn"/></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="30" height="30" title="Jupyter" alt="Jupyter"/></code>
 
-<h3>DevOps : <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30" height="30" title="Linux" alt="Linux"/></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30" height="30" title="Docker" alt="Docker"/></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="30" height="30" title="Waydroid / ADB" alt="Waydroid / ADB"/></code> <code><img src="https://cdn.simpleicons.org/virtualbox/ffffff" width="30" height="30" title="Oracle VirtualBox" alt="Oracle VirtualBox"/></code></h3>
+- DevOps : <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30" height="30" title="Linux" alt="Linux"/></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30" height="30" title="Docker" alt="Docker"/></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="30" height="30" title="Waydroid / ADB" alt="Waydroid / ADB"/></code> <code><img src="https://cdn.simpleicons.org/virtualbox/ffffff" width="30" height="30" title="Oracle VirtualBox" alt="Oracle VirtualBox"/></code>
 
-<h3>Scripting : <code><img src="https://cdn.simpleicons.org/gnubash/ffffff" width="30" height="30" title="Bash" alt="Bash"/></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="30" height="30" title="PowerShell" alt="PowerShell"/></code></h3>
+- Scripting : <code><img src="https://cdn.simpleicons.org/gnubash/ffffff" width="30" height="30" title="Bash" alt="Bash"/></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="30" height="30" title="PowerShell" alt="PowerShell"/></code>
 
-<h3>Dev Tools : <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" height="30" title="Git" alt="Git"/></code> <code><img src="https://cdn.simpleicons.org/github/ffffff" width="30" height="30" title="GitHub" alt="GitHub"/></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" height="30" title="VS Code" alt="VS Code"/></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="30" height="30" title="Dev Tools (Inspecteur)" alt="Dev Tools"/></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="30" height="30" title="PyCharm" alt="PyCharm"/></code> <code><img src="https://cdn.simpleicons.org/obsidian/7C3AED" width="30" height="30" title="Obsidian" alt="Obsidian"/></code></h3>
+- Dev Tools : <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" height="30" title="Git" alt="Git"/></code> <code><img src="https://cdn.simpleicons.org/github/ffffff" width="30" height="30" title="GitHub" alt="GitHub"/></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" height="30" title="VS Code" alt="VS Code"/></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="30" height="30" title="Dev Tools (Inspecteur)" alt="Dev Tools"/></code> <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="30" height="30" title="PyCharm" alt="PyCharm"/></code> <code><img src="https://cdn.simpleicons.org/obsidian/7C3AED" width="30" height="30" title="Obsidian" alt="Obsidian"/></code></h3>
 
-<h3>Learning : <code><img src="https://cdn.simpleicons.org/tryhackme/ffffff" width="30" height="30" title="TryHackMe" alt="TryHackMe"/></code> <code><img src="https://cdn.simpleicons.org/freecodecamp/ffffff" width="30" height="30" title="freeCodeCamp" alt="freeCodeCamp"/></code></h3>
+- Learning : <code><img src="https://cdn.simpleicons.org/tryhackme/ffffff" width="30" height="30" title="TryHackMe" alt="TryHackMe"/></code> <code><img src="https://cdn.simpleicons.org/freecodecamp/ffffff" width="30" height="30" title="freeCodeCamp" alt="freeCodeCamp"/></code>
 
 <br>
 
